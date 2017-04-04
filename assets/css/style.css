@@ -1,0 +1,39 @@
+body{
+  background-color: 	#FFA500;
+}
+#coderLab{
+  position: absolute;
+  left: 50%;
+  margin: 20px;
+  font-family: 'Palanquin Dark', sans-serif;
+  text-align:
+}
+#imageCoders{
+  display: inline-block;
+  margin-top: 50px;
+}
+.divCoder4-chile{
+  display: inline-block;
+  margin: 10px;
+}
+img{
+  border-radius: 30px;
+  border: 1px solid #ddd;
+  padding: 5px;
+  width: 250px;
+
+}
+
+.divCoder5-lima{
+  display: inline-block;
+  margin: 10px;
+}
+.divCoder6-lima{
+  display: inline-block;
+  margin: 10px;
+}
+.nameCoder{
+  text-align: center;
+  margin-left: 45px;
+  font-family: 'Lobster', cursive;
+}
